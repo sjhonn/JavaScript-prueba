@@ -1,0 +1,22 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Env (NO subir secretos)
+.env
+**/.env
+
+# Builds
+dist/
+build/
+**/dist/
+**/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
